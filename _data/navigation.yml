@@ -1,13 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Job Redesign
+    collection: job-redesign
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Job Redesign
-    url: /permalink
-    sublinks: []
-  - title: Job Redesign
-    collection: job-redesign
