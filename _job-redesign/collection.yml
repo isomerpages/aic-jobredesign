@@ -2,7 +2,6 @@ collections:
   job-redesign:
     output: true
     order:
-      - The role of the SCCA and CCA in the Care Ecosystem.md
       - Introduction to the new roles/Introduction to the new roles.md
       - Introduction to the new roles/.keep
       - Why do Job Redesign?/.keep
