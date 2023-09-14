@@ -2,6 +2,7 @@ collections:
   job-redesign:
     output: true
     order:
+      - Introduction to the new roles/.keep
       - Why do Job Redesign?/.keep
       - Who is this toolkit for?.md
       - What is Job Redesign?.md
