@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: We've launched the toolkit!
 sections:
   - hero:
       title: AIC Job Redesign Toolkit
