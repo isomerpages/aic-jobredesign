@@ -9,7 +9,7 @@ sections:
   - hero:
       title: AIC Job Redesign Toolkit
       subtitle: Do we have a subtitle?
-      background: /images/hero-banner.png
+      background: /images/picture1.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
