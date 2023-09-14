@@ -2,5 +2,6 @@ collections:
   job-redesign:
     output: true
     order:
+      - Why do Job Redesign?/.keep
       - Who is this toolkit for?.md
       - What is Job Redesign?.md
