@@ -6,4 +6,6 @@ description: ""
 **Who is this toolkit for?**
 
 
-This toolkit seeks to equip and empower Community Care Organisations (CCOs) that are interested in uplifting and expanding the role of support Care staff in providing holistic care for their elderly clients.
+This toolkit seeks to equip...
+
+Need to upload image in .jpg/gif/jpeg in image folder and link.
