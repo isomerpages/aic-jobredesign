@@ -4,9 +4,11 @@ links:
     collection: job-redesign
   - title: Getting Started
     collection: getting-started
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Resources And Funding
     collection: resources-and-funding
+  - title: Case Studies
+    collection: case-studies
+  - title: Download Centre
+    collection: download-centre
+  - title: Acknowledgements
+    collection: acknowledgements
