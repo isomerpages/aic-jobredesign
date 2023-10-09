@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  resources-and-funding:
     output: true
     order:
       - folder-page.md
