@@ -6,4 +6,4 @@ third_nav_title: Introduction to the new roles
 ---
 Description
 
-Multiple sections. to upload as 1 image.
+Multiple sections. probably need to upload as images.
