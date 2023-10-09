@@ -2,6 +2,8 @@ logo: /images/aiclogo (2).jpg
 links:
   - title: Job Redesign
     collection: job-redesign
+  - title: Getting Started
+    collection: getting-started
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
