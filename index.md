@@ -13,26 +13,20 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: What is Job Re-design?
-          description: Important highlight A is important
+        - title: Do we need a highlight?
+          description: 30c why this is impt
           url: https://google.com
-        - title: Job redesign in the Community Care Sector
+        - title: Do we need this highlight?
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Implementation Guide
-          description: Page A is important too
-          url: /privacy/
-        - title: Case Studies
-          description: Key Highlight description
-          url: ""
   - infobar:
-      title: What is Job Redesign?
+      title: Do we need this info section?
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
   - infopic:
-      title: Job Redesign in the Community Care Sector
+      title: Do we need this info plus picture section?
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
