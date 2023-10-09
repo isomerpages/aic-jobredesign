@@ -7,3 +7,5 @@ third_nav_title: Why do Job Redesign?
 #### Why Job Redesign in the Community Care Sector?
 
 Job Redesign is crucial...
+
+6 images
