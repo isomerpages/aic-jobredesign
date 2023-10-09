@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
-notification: We've launched the toolkit!
+notification: We're creating the toolkit!
 sections:
   - hero:
       title: Welcome to JR Toolkit
