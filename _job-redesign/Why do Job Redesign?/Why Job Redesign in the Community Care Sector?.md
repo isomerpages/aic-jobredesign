@@ -4,4 +4,6 @@ permalink: /job-redesign/why-do-job-redesign/permalink/
 description: ""
 third_nav_title: Why do Job Redesign?
 ---
-say something here
+#### Why Job Redesign in the Community Care Sector?
+
+Job Redesign is crucial...
