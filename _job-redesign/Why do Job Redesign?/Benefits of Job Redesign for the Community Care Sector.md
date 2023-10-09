@@ -12,4 +12,4 @@ Insert images
 | -------- | -------- | -------- |
 | • A more agile and skilled workforce • Increased role attractiveness and staff retention • Reduced pressure on nursing and therapy manpower | • New career track and opportunities for Care professionals • Uplift in job value and enrichment • Reduce in caregiver burnout     | • Improvements in overall elder safety and experience • Improvements in holistic, multi-disciplinary care • Enhanced integration of therapy into daily life     |
 
-Learn more about how the CCA and SCCA roles have benefitted organisations who have piloted these roles in the **Case Studies** section.
+Learn more about how the CCA and SCCA roles have benefitted organisations who have piloted these roles in the **Case Studies** (insert link) section.
