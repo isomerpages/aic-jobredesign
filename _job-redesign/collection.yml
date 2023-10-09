@@ -2,7 +2,6 @@ collections:
   job-redesign:
     output: true
     order:
-      - Is my organisation ready for job redesign?.md
       - Who is this toolkit for?.md
       - What is Job Redesign?.md
       - Why do Job Redesign?/.keep
@@ -12,3 +11,4 @@ collections:
       - Introduction to the new roles/The role of the SCCA and CCA in the Care
         Ecosystem.md
       - Introduction to the new roles/Introduction to the new roles.md
+      - Is my organisation ready for job redesign?.md
