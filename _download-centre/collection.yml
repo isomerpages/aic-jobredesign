@@ -1,0 +1,4 @@
+collections:
+  download-centre:
+    output: true
+    order: []
